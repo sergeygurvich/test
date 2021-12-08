@@ -1,92 +1,32 @@
 [
    {
-      "Museum ID":8405100797,
-      "Museum Name":"LEGACY PROJECT",
-      "Street Address":"403 MONROE STREET",
-      "Street Address.1":"403 MONROE STREET",
-      "City":"LYNCHBURG",
-      "State":"VA",
-      "Zip Code":24505.0
+      "Museum Name":"MARSHALL COUNTY PRAYER ROCK MUSEUM",
+      "Street Address (Physical Location)":"723 MAIN ST",
+      "City (Physical Location)":"BRITTON",
+      "State (Physical Location)":"SD"
    },
    {
-      "Museum ID":8400900224,
-      "Museum Name":"102ND INFANTRY REGIMENT MUSEUM",
-      "Street Address":"290 GEOFF STREET",
-      "Street Address.1":"290 GEOFF STREET",
-      "City":"NEW HAVEN",
-      "State":"CT",
-      "Zip Code":6516.0
+      "Museum Name":"HISTORICAL SOCIETY OF THE SOMERSET HILLS",
+      "Street Address (Physical Location)":"15 WEST OAK STREET",
+      "City (Physical Location)":"BASKING RIDGE",
+      "State (Physical Location)":"NJ"
    },
    {
-      "Museum ID":8409500369,
-      "Museum Name":"DANIEL M. SOREF PLANETARIUM",
-      "Street Address":"800 WEST WELLS ST",
-      "Street Address.1":"800 WEST WELLS ST",
-      "City":"MILWAUKEE",
-      "State":"WI",
-      "Zip Code":53233.0
+      "Museum Name":"HISTORICAL ELECTRONICS MUSEUM",
+      "Street Address (Physical Location)":"1745 W NURSERY RD",
+      "City (Physical Location)":"LINTHICUM",
+      "State (Physical Location)":"MD"
    },
    {
-      "Museum ID":8405500421,
-      "Museum Name":"MERRILL HISTORICAL SOCIETY",
-      "Street Address":"102 E THIRD STREET",
-      "Street Address.1":"102 E THIRD STREET",
-      "City":"MERRILL",
-      "State":"WI",
-      "Zip Code":54452.0
+      "Museum Name":"SOUTH CHURCH PRESERVATION",
+      "Street Address (Physical Location)":"11 ORANGE ST",
+      "City (Physical Location)":"NANTUCKET",
+      "State (Physical Location)":"MA"
    },
    {
-      "Museum ID":8409401023,
-      "Museum Name":"PENSACOLA CHILDREN\\'S MUSEUM",
-      "Street Address":"120 CHURCH STREET",
-      "Street Address.1":"120 CHURCH STREET",
-      "City":"PENSACOLA",
-      "State":"FL",
-      "Zip Code":32502.0
-   },
-   {
-      "Museum ID":8401201019,
-      "Museum Name":"GENEVA HISTORICAL AND GENEALOGICAL SOCIETY",
-      "Street Address":"165 FIRST STREET",
-      "Street Address.1":"165 FIRST STREET",
-      "City":"GENEVA",
-      "State":"FL",
-      "Zip Code":32732.0
-   },
-   {
-      "Museum ID":8402100328,
-      "Museum Name":"KENTUCKY COUNTRY MUSIC HALL OF FAME",
-      "Street Address":"2590 RICHMOND ROAD",
-      "Street Address.1":"2590 RICHMOND ROAD",
-      "City":"RENFRO VLY",
-      "State":"KY",
-      "Zip Code":40473.0
-   },
-   {
-      "Museum ID":8405400264,
-      "Museum Name":"WEIRTON AREA MUSEUM & CULTURAL CENTER",
-      "Street Address":"3149 MAIN ST",
-      "Street Address.1":"3149 MAIN ST",
-      "City":"WEIRTON",
-      "State":"WV",
-      "Zip Code":26062.0
-   },
-   {
-      "Museum ID":8400800591,
-      "Museum Name":"BECKWITH RANCH",
-      "Street Address":"64161 HWY 69",
-      "Street Address.1":"64161 HWY 69",
-      "City":"WESTCLIFFE",
-      "State":"CO",
-      "Zip Code":81252.0
-   },
-   {
-      "Museum ID":8405000078,
-      "Museum Name":"CABOT HISTORICAL SOCIETY",
-      "Street Address":"3216 MAIN STREET",
-      "Street Address.1":"3216 MAIN STREET",
-      "City":"CABOT",
-      "State":"VT",
-      "Zip Code":5647.0
+      "Museum Name":"BEAVER CREEK RESERVE",
+      "Street Address (Physical Location)":"S1 COUNTY HWY K",
+      "City (Physical Location)":"FALL CREEK",
+      "State (Physical Location)":"WI"
    }
 ]
